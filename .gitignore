@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 out/
-.idea/
+
 
 ### Eclipse ###
 .apt_generated
@@ -26,6 +26,10 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/.gitignore
 
 
 
