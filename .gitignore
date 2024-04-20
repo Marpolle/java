@@ -26,10 +26,9 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.idea/misc.xml
-.idea/modules.xml
-Maria.iml
-.idea/vcs.xml
+ misc.xml/
+modules.xml/
+Maria.iml/
 .idea/.gitignore
 
 
