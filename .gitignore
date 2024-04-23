@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 out/
+.idea
+.iml/
 
 
 ### Eclipse ###
@@ -26,10 +28,8 @@ bin/
 ### Mac OS ###
 .DS_Store
 
- misc.xml/
-modules.xml/
-Maria.iml/
-.idea/.gitignore
+
+
 
 
 
