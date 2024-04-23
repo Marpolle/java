@@ -1,8 +1,7 @@
 ### IntelliJ IDEA ###
 out/
 .idea
-Maria.iml
-.idea/misc.xml
+
 
 ### Eclipse ###
 .apt_generated
